@@ -1,0 +1,18 @@
+Number of arguments = 6
+Argv[0] = ./lab7
+Argv[1] = 1
+Argv[2] = 2.3
+Argv[3] = 4.5
+Argv[4] = 3.9
+Argv[5] = 7.5
+
+--------------------------
+Arguments printing completed successfully
+Option: 1 --> Double SelectedNumber of arguments = 6
+Double Argv[2] = 4.600000
+Double Argv[3] = 9.000000
+Double Argv[4] = 7.800000
+Double Argv[5] = 15.000000
+
+--------------------------
+Double calculation completed successfully
